@@ -38,6 +38,8 @@ Using 3 separate models to predict the effectiveness of each offer type proved t
 
 I am satisfied with the 80% and above accuracy for BOGO and discount models since it would be acceptable to present offers to customers in a business setting. Even if the model makes a few misclassifications, the overall revenue increase may justify the errors.
 
+All of my results would be published [here](<https://scarlettstarbucks.blogspot.com/2023/05/udacity-data-science-nano-degree.html>)
+
 ### Licensing, Authors, Acknowledgements, etc.<a name="license"></a>
 
 Data for coding project was provided by Udacity.
